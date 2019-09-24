@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "minilibmx.h": "c",
+        "stdbool.h": "c"
+    }
+}
